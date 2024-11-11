@@ -110,7 +110,7 @@ The Python Code Tester is a versatile tool designed for testing, analyzing, and 
 5. **Debugging**: If any issues occur, refer to `app.log` for detailed error and event logs.
 
 ## Project Gallery
-Here are some images showcasing the Python Code Tester interface and functionality. *(Please add the images to the `pictures` folder)*
+Here are some images showcasing the Python Code Tester interface and functionality.
 
 1. ![UI Overview](pictures/ui_overview.png)
 2. ![Settings Configuration](pictures/settings_configuration.png)
@@ -120,7 +120,7 @@ Here are some images showcasing the Python Code Tester interface and functionali
 Contributions are welcome! Please submit a pull request or open an issue to suggest changes or improvements.
 
 ## Contact
-For questions, please reach out to the project maintainer at samuellabant@192.
+For questions, please reach out to the project maintainer at samuellabant@gmail.com.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
