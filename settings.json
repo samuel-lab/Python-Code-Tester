@@ -1,0 +1,23 @@
+{
+    "selected_tools": [
+        "Pylint",
+        "Mypy",
+        "Radon",
+        "Bandit",
+        "Black",
+        "Pydocstyle",
+        "Pip-Licenses",
+        "Pytest",
+        "Pip-Audit",
+        "Autopep8",
+        "Isort",
+        "Flake8"
+    ],
+    "pylint_fail_under": 5,
+    "radon_threshold": 10,
+    "bandit_confidence": "MEDIUM",
+    "report_format": "PDF",
+    "enable_git_integration": false,
+    "enable_autofix": false,
+    "enable_metrics_tracking": false
+}

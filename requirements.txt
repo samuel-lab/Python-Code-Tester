@@ -1,0 +1,7 @@
+PyQt5
+analysis
+matplotlib
+numpy
+reportlab
+shutil
+squarify
